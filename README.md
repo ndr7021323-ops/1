@@ -1,2 +1,2 @@
 # LogiTalk
-ghbdtn
+print("hi")
